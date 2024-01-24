@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#002157</color>
+    <color name="colorPrimaryDark">#001d4d</color>
+    <color name="colorAccent">#002157</color>
+
+    <color name="colorPrimaryOne">#002157</color>
+    <color name="colorPrimaryTwo">#fe5a00</color>
+    <color name="colorPrimaryThree">#096906</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="page_bg">#F4F7FF</color>
+    <color name="title_color">#f3c764</color>
+
+    <color name="darkblue">#4060ac</color>
+    <color name="gray_light">#808080</color>
+    <color name="txt_gray">#b3b3b3</color>
+    <color name="txt_or">#c2bcbc</color>
+    <color name="dot_line">#c2bcbc</color>
+    <color name="gray_dark">#666666</color>
+    <color name="red">#ec1616</color>
+    <color name="black_text">#202020</color>
+    <color name="gray_light_bg">#F3F5F9</color>
+    <color name="gray_dark_bg">#787D86</color>
+    <color name="green_light_bg">#F4FFF1</color>
+    <color name="bg_circle">#A6ed2690</color>
+    <color name="white_gray">#f7f7f7</color>
+    <color name="light_gray">#e3e1e1</color>
+    <color name="txt_hint_color">#D5D5D5</color>
+    <color name="page_background">#eff0f6</color>
+    <color name="vw_BgRvFileDivider">#EEEEEE</color>
+    <color name="green">#6FB359</color>
+    <color name="green_light">#ecf9ef</color>
+    <color name="light_blue">#82bd41</color>
+    <color name="txt_dark_blue">#204768</color>
+    <color name="dark_blue">#0297d6</color>
+    <color name="txt_dark_gray">#737373</color>
+    <color name="bg_light_color">#f8f8f8</color>
+    <color name="light_color">#a9a8a8</color>
+    <color name="dark_gray_color">#231f20</color>
+    <color name="gradient_start">#002766</color>
+    <color name="gradient_end">#003180</color>
+    <color name="next_green">#87c041</color>
+    <color name="language_selection">#5c8f41</color>
+    <color name="wallet_debit">#CEEBFB</color>
+    <color name="transfer">#908e8e</color>
+    <color name="yellow">#ffa31a</color>
+    <color name="bg_lyout_gray">#7f7f7f</color>
+    <color name="txt_dark_black">#4d4d4d</color>
+    <color name="txt_darkgray">#9E9E9D</color>
+    <color name="txt_bg">#ffc38f</color>
+
+
+    <color name="colorAccentOverlay">#41FF7301</color>
+    <color name="mustard">#E3A208</color>
+    <color name="newColorAccent">#2FFF5A01</color>
+    <color name="white_overlay">#63FFFFFF</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="bg_yellow">#fbcc13</color>
+    <color name="bg_count_color">#f7eed7</color>
+    <color name="bg_selection_color">#e9d399</color>
+    <color name="yellow_light">#fde481</color>
+    <color name="bg_yellow_light">#fbe5bc</color>
+    <color name="cofee_color">#724f00</color>
+
+    <!--Cash box-->
+
+    <drawable name="red">#f00</drawable>
+    <drawable name="green">#0f0</drawable>
+    <drawable name="gray">#ccc</drawable>
+    <drawable name="white">#ffffff</drawable>
+    <drawable name="color_6b6b6b">#6B6B6B</drawable>
+
+    <color name="Black">#FF000000</color>
+    <color name="White">#FFFFFFFF</color>
+    <color name="Orange">#FFFF831C</color>
+    <color name="Red">#FFC90000</color>
+    <color name="Gray">#FF969696</color>
+    <color name="Common_Background">#FFDCDCDC</color>
+    <color name="Gray_Line">#FFC0C0C0</color>
+    <color name="transparent">#9000</color>
+    <color name="setting_background">#fff2f2f2</color>
+    <color name="preference_primary_text">#ff000000</color>
+    <color name="Blue">#ff61a8ff</color>
+    <color name="lily_white">#EBEBEB</color>
+    <color name="color_6b6b6b">#6B6B6B</color>
+    <color name="gray_blue">#bdeadc</color>
+    <color name="_grey_605E5C">#ff605e5c</color>
+    <color name="f5f5f5">#f5f5f5</color>
+</resources>

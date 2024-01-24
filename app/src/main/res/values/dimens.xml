@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    Because the window insets on round devices are larger than 15dp, this padding only applies
+    to square screens.
+    -->
+    <dimen name="box_inset_layout_padding">0dp</dimen>
+
+    <!--
+    This padding applies to both square and round screens. The total padding between the buttons
+    and the window insets is box_inset_layout_padding (above variable) on square screens and
+    inner_frame_layout_padding (below variable) on round screens.
+    -->
+    <dimen name="inner_frame_layout_padding">5dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+
+    <!--Printer-->
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="top_height">60dp</dimen>
+    <!--listView item font size  -->
+    <dimen name="item_size">20sp</dimen>
+    <!--listView item hight  -->
+    <dimen name="item_2size">40dp</dimen>
+    <dimen name="common_margin_top">20dp</dimen>
+
+    <dimen name="back_margin_left">10dp</dimen>
+    <dimen name="back_fontsize">20sp</dimen>
+    <dimen name="title_fontsize">14sp</dimen>
+
+
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_25">25dp</dimen>
+    <dimen name="margin_2">2dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+
+</resources>
